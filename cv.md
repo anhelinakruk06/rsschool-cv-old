@@ -4,11 +4,11 @@
 
 ## **Contact information:**
 
-**Lokation:** Wrocław, Poland  
+**Lokation:** Wroclaw, Poland  
 **Phone:** +48518545452  
 **E-mail:** krukangelina246@gmail.com  
-**Telegram:** @anhelina_k
-**Instaram** @anhelina.kruk
+**Telegram:** @anhelina_k  
+**Instagram** @anhelina.kruk
 
 ## **About Me:**
 
@@ -49,7 +49,7 @@ Technical school **"TEB education"** in Wroclaw (_September 2021 - up to now_)
 
 ### _Courses:_
 
-- GoIt School 7-day courses (HTML/CSS)
+- GoIT School 7-day courses (HTML/CSS)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## **Language:**
