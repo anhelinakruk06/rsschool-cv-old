@@ -4,8 +4,6 @@
 
 ## **Contact information:**
 
----
-
 **Lokation:** Wrocław, Poland  
 **Phone:** +48518545452  
 **E-mail:** krukangelina246@gmail.com  
@@ -13,8 +11,6 @@
 **Instaram** @anhelina.kruk
 
 ## **About Me:**
-
----
 
 I am 15 years old. I'm studying in Poland in the direction of "Programmer Technician". At the age of 12, I realized that I wanted to work in IT. I really like to develop my skills. My goal for 2022 is to become Junior Front-End developer. That’s why I’m here.
 
@@ -28,8 +24,6 @@ I am 15 years old. I'm studying in Poland in the direction of "Programmer Techni
 
 ## **Skills:**
 
----
-
 - HTML5, СSS3
 - JavaScript (basics)
 - Git, GitHub (basics)
@@ -39,8 +33,6 @@ I am 15 years old. I'm studying in Poland in the direction of "Programmer Techni
 
 ## **Code example:**
 
----
-
 ```
 SELECT price * amount AS total
 
@@ -49,13 +41,9 @@ FROM items
 
 ## **Work experience:**
 
----
-
 _I worked as a web designer at Tilda in a Ukrainian cosmetics company_
 
 ## **Edukation and courses:**
-
----
 
 Technical school **"TEB education"** in Wroclaw (_September 2021 - up to now_)
 
@@ -65,8 +53,6 @@ Technical school **"TEB education"** in Wroclaw (_September 2021 - up to now_)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## **Language:**
-
----
 
 - English - Intermediate(B1)
 - Ukrainian - Native
