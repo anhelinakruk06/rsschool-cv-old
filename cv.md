@@ -6,7 +6,7 @@
 
 ---
 
-**Lokation:** Wrocław, Poland
+**Lokation:** Wrocław, Poland  
 **Phone:** +48518545452  
 **E-mail:** krukangelina246@gmail.com  
 **Telegram:** @anhelina_k
@@ -46,3 +46,30 @@ SELECT price * amount AS total
 
 FROM items
 ```
+
+## **Work experience:**
+
+---
+
+_I worked as a web designer at Tilda in a Ukrainian cosmetics company_
+
+## **Edukation and courses:**
+
+---
+
+Technical school **"TEB education"** in Wroclaw (_September 2021 - up to now_)
+
+### _Courses:_
+
+- GoIt School 7-day courses (HTML/CSS)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## **Language:**
+
+---
+
+- English - Intermediate(B1)
+- Ukrainian - Native
+- Russian - Intermediate
+- Polish - Advanced(C1)
+- German - Beginner, Elementary(A1)
