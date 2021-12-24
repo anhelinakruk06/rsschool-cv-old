@@ -1,4 +1,4 @@
-# [rsschool-cv](https://anhelinakruk.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://anhelinakruk.github.io/rsschool-cv/)
 
 # Anhelina Kruk
 
