@@ -1,1 +1,1 @@
-https://anhelinaKruk.gcvithub.io/rsschool-cv/
+https://anhelinakruk.github.io/rsschool-cv/
